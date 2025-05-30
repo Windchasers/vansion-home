@@ -1,0 +1,112 @@
+{
+  "categories": [
+    { "id": "all", "name": "全部" },
+    { "id": "branding", "name": "品牌设计" },
+    { "id": "web", "name": "网站设计" },
+    { "id": "installation", "name": "装置艺术" },
+    { "id": "curation", "name": "策展" },
+    { "id": "digital", "name": "数字媒体" },
+    { "id": "exhibition", "name": "展览设计" },
+    { "id": "books", "name": "书籍设计" },
+    { "id": "environment", "name": "环境设计" },
+    { "id": "animation", "name": "动画" }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "品牌重塑项目",
+      "subtitle": "为客户打造全新品牌形象",
+      "category": "branding",
+      "year": "2024",
+      "client": "某科技公司",
+      "services": ["品牌设计", "视觉识别系统", "营销物料"],
+      "description": "这是一个全面的品牌重塑项目，我们为客户创建了新的品牌标识、视觉语言和应用系统。",
+      "images": [
+        "/images/projects/1/mixtape海报 2.jpg",
+        "/images/projects/1/mixtape效果图折页.jpg",
+        "/images/projects/1/mixtape4.12效果图堆叠.jpg"
+      ],
+      "thumbnail": "/images/projects/1/thumbnail.jpg"
+    },
+    {
+      "id": 2,
+      "title": "响应式网站设计",
+      "subtitle": "现代化的用户体验设计",
+      "category": "web",
+      "year": "2023",
+      "client": "某设计工作室",
+      "services": ["网站设计", "用户体验", "前端开发"],
+      "description": "为客户设计并开发了一个现代化的响应式网站，展示其作品集并提升品牌形象。",
+      "images": [
+        "/images/projects/2/thumbnail.jpg",
+        "/images/projects/2/thumbnail.jpg",
+        "/images/projects/2/thumbnail.jpg"
+      ],
+      "thumbnail": "/images/projects/2/thumbnail.jpg"
+    },
+    {
+      "id": 3,
+      "title": "互动装置艺术",
+      "subtitle": "融合技术与艺术的沉浸式体验",
+      "category": "installation",
+      "year": "2023",
+      "client": "某艺术展览",
+      "services": ["装置设计", "交互设计", "技术实现"],
+      "description": "为艺术展览创作了一个互动装置，通过传感器和投影技术，让观众成为作品的一部分。",
+      "images": [
+        "/images/projects/3/thumbnail.jpg",
+        "/images/projects/3/thumbnail.jpg",
+        "/images/projects/3/thumbnail.jpg"
+      ],
+      "thumbnail": "/images/projects/3/thumbnail.jpg"
+    },
+    {
+      "id": 4,
+      "title": "艺术展览策划",
+      "subtitle": "当代艺术主题展",
+      "category": "curation",
+      "year": "2022",
+      "client": "某艺术中心",
+      "services": ["展览策划", "艺术家协调", "展览设计"],
+      "description": "策划了一场探索当代社会议题的艺术展览，汇集了多位艺术家的作品。",
+      "images": [
+        "/images/projects/4/thumbnail.jpg",
+        "/images/projects/4/thumbnail.jpg",
+        "/images/projects/4/thumbnail.jpg"
+      ],
+      "thumbnail": "/images/projects/4/thumbnail.jpg"
+    },
+    {
+      "id": 5,
+      "title": "数字媒体艺术",
+      "subtitle": "探索数字与现实的边界",
+      "category": "digital",
+      "year": "2022",
+      "client": "独立项目",
+      "services": ["数字艺术", "编程", "视觉设计"],
+      "description": "这是一个探索数字媒体可能性的实验性项目，结合了生成艺术、数据可视化和互动元素。",
+      "images": [
+        "/images/projects/5/thumbnail.jpg",
+        "/images/projects/5/thumbnail.jpg",
+        "/images/projects/5/thumbnail.jpg"
+      ],
+      "thumbnail": "/images/projects/5/thumbnail.jpg"
+    },
+    {
+      "id": 6,
+      "title": "书籍设计系列",
+      "subtitle": "当代文学作品集",
+      "category": "books",
+      "year": "2021",
+      "client": "某出版社",
+      "services": ["书籍设计", "排版", "封面设计"],
+      "description": "为一系列当代文学作品设计了书籍装帧和排版。",
+      "images": [
+        "/images/projects/6/thumbnail.jpg",
+        "/images/projects/6/thumbnail.jpg",
+        "/images/projects/6/thumbnail.jpg"
+      ],
+      "thumbnail": "/images/projects/6/thumbnail.jpg"
+    }
+  ]
+}
